@@ -6,7 +6,7 @@
           class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pbelow"
           style="color: white;"
         >
-          <span>© 2021 Copyright: Mahy Mohab</span>
+          <span><i class="far fa-envelope mx-2"></i><a class="text-white link-light" href="mailto:journelcabrillos@gmail.com">Email Me!</a></span>
         </div>
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">

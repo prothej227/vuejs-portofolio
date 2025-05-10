@@ -113,9 +113,9 @@ export default {
 
 img {
   max-width: 800px;
-  max-height: 500px;
+  max-height: 400px;
   margin-top: 80px;
-  transform: rotateY(180deg);
+  /* transform: rotateY(180deg); */
 }
 
 @media only screen and (max-width: 580px) {
